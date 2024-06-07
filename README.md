@@ -1,6 +1,7 @@
 # Run server
 ```sh
-git clone 
+git clone https://github.com/xiaolibuzai-ovo/CreatifyHomeWork.git
+cd CreatifyHomeWork
 docker-compose up --build
 ```
 
